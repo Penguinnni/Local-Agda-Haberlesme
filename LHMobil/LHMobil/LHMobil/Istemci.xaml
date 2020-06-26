@@ -1,0 +1,93 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<TabbedPage x:Name="SekmeliSayfa" xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LHMobil.Istemci" NavigationPage.HasNavigationBar="False" BackgroundColor="#222324" BarTextColor="White" >
+
+    <ContentPage x:Name="baglilarSekme" Title="Bağlı Kullanıcılar" >
+        <StackLayout HorizontalOptions="Center" >
+            <Label Text="Çevrimiçi Kullanıcılar" HorizontalOptions="Center" TextColor="Orange" FontAttributes="Bold" FontSize="25" Margin="0,5" />
+            <ListView x:Name="aktifList" ItemTapped="AktifList_ItemTapped" HorizontalOptions="Center" SeparatorVisibility="Default" SeparatorColor="Orange">
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <ViewCell>
+                            <Grid>
+                                <Grid.ColumnDefinitions>
+                                    <ColumnDefinition Width="3*" />
+                                    <ColumnDefinition Width="*" />
+                                </Grid.ColumnDefinitions>
+                                <Label Margin="10" Grid.Column="0" Text="{Binding KullaniciAdi}" FontSize="18" FontAttributes="Bold" VerticalOptions="Center" TextColor="White" />
+                                <Label Grid.Column="1" Text="{Binding Bildirim}" FontSize="18" FontAttributes="Bold" VerticalOptions="Center" TextColor="White" />
+                            </Grid>
+                        </ViewCell>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+            </ListView>
+        </StackLayout>
+    </ContentPage>
+
+
+    <ContentPage x:Name="SohbetSekme" Title="Sohbet">
+        <ContentPage.Content>
+            <AbsoluteLayout>
+                <Editor x:Name="Sohbet" BackgroundColor="#36393F" TextColor="White"
+                 AbsoluteLayout.LayoutFlags="All" 
+                    AbsoluteLayout.LayoutBounds="0.5,0.1,0.9,0.7"/>
+                <Entry x:Name="Mesaj" Keyboard="Chat" BackgroundColor="#36393F" TextColor="White"
+                    AbsoluteLayout.LayoutFlags="All"
+                    AbsoluteLayout.LayoutBounds="0.5,0.92,0.9,0.18" />
+                <Button x:Name="gonderBtn" Clicked="GonderBtn_Clicked" BackgroundColor="Orange" AbsoluteLayout.LayoutFlags="PositionProportional" AbsoluteLayout.LayoutBounds="0.9,0.85,35,35" CornerRadius="20" >
+                    <Button.Image>
+                        <OnPlatform x:TypeArguments="FileImageSource"
+                        iOS="send.png"
+                        Android="send.png" />
+                    </Button.Image>
+                </Button>
+            </AbsoluteLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
+    <ContentPage x:Name="transferSekme" Title="Dosya Transfer" >
+        <ContentPage.Content>
+            <StackLayout HorizontalOptions="Center">
+                <Grid Padding="10" HorizontalOptions="Center" >
+                    <!--<Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="40" />
+                        <ColumnDefinition Width="*" />
+                        <ColumnDefinition Width="2*" />
+                    </Grid.ColumnDefinitions>-->
+                    <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Column="0" FontAttributes="Bold" TextColor="Orange" FontSize="18" Text="Saat - Gönderen - Dosya" />
+                    <!--<Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Column="1" FontAttributes="Bold" FontSize="18" TextColor="Orange" Text="Gönderen" />
+                    <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Column="2" FontAttributes="Bold" FontSize="18" TextColor="Orange" Text="Dosya" />-->
+                </Grid>
+                <ListView x:Name="dosyaTransfer" SeparatorColor="Orange" SeparatorVisibility="Default" ItemTapped="DosyaTransfer_ItemTapped" >
+                    <ListView.ItemTemplate>
+                        <DataTemplate>
+                            <ViewCell>
+                                <Grid Padding="10"  RowSpacing="0">
+                                    <Grid.RowDefinitions>
+                                        <RowDefinition Height="Auto" />
+                                    </Grid.RowDefinitions>
+                                    <Grid.ColumnDefinitions>
+                                        <ColumnDefinition Width="40" />
+                                        <ColumnDefinition Width="*" />
+                                        <ColumnDefinition Width="2*" />
+                                    </Grid.ColumnDefinitions>
+                                    <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Column="0" FontAttributes="Bold" TextColor="White" FontSize="14" Text="{Binding Saat}"/>
+                                    <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Column="1" FontAttributes="Bold" FontSize="14" TextColor="White" Text="{Binding Gonderen}"/>
+                                    <Label HorizontalOptions="Center" VerticalOptions="Center" Grid.Column="2" FontAttributes="Bold" FontSize="14" TextColor="White" Text="{Binding Dosya}"/>
+                                </Grid>
+                            </ViewCell>
+                        </DataTemplate>
+                    </ListView.ItemTemplate>
+                </ListView>
+                <StackLayout HorizontalOptions="Center" Orientation="Horizontal" Spacing="10">
+                    <Button x:Name="dosyaGonderBtn" Clicked="DosyaGonderBtn_Clicked" Margin="0,0,0,10" HorizontalOptions="Center" Text="Dosya Gönder" FontAttributes="Bold" FontSize="20" TextColor="Orange" CornerRadius="20" BackgroundColor="#36393F"/>
+                    <Button x:Name="indirilenlerAc" Clicked="IndirilenlerAc_Clicked" Margin="0,0,0,10" HorizontalOptions="Center" Text="İndirilenler" FontAttributes="Bold" FontSize="20" TextColor="Orange" CornerRadius="20" BackgroundColor="#36393F"/>
+                </StackLayout>
+            </StackLayout>
+        </ContentPage.Content>
+    </ContentPage>
+
+
+
+</TabbedPage>

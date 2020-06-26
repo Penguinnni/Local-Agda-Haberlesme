@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LHMobil"
+             x:Class="LHMobil.MainPage"
+             NavigationPage.HasNavigationBar="False">
+
+    <Grid BackgroundColor="#222324">
+        <StackLayout HorizontalOptions="Center" VerticalOptions="Center" Spacing="40">
+
+            <StackLayout HorizontalOptions="Center" BackgroundColor="#36393F" Padding="30" VerticalOptions="Center">
+                <Label x:Name="baslik" Text="Sohbete Bağlan" Margin="0,0,0,25" FontSize="34" FontAttributes="Bold" TextColor="Orange"/>
+
+                <Entry x:Name="kAdiEntry" IsSpellCheckEnabled="False" ReturnType="Go" Completed="KAdiEntry_Completed" TextColor="White" Placeholder="Kullanıcı Adı" PlaceholderColor="Orange" HorizontalTextAlignment="Center"/>
+                <Entry x:Name="ipEntry" Keyboard="Telephone" ReturnType="Go" Completed="IpEntry_Completed" TextColor="White" Placeholder="İp Adresi" PlaceholderColor="Orange" HorizontalTextAlignment="Center"/>
+                <Entry x:Name="portEntry" Keyboard="Numeric" ReturnType="Done" TextColor="White" Placeholder="Port" PlaceholderColor="Orange" HorizontalTextAlignment="Center"/>
+                <Button x:Name="okBtn" Clicked="OkBtn_Clicked" Text="Sohbete Bağlan" FontAttributes="Bold" Margin="0,25,0,0" FontSize="20" TextColor="Orange" CornerRadius="20" BackgroundColor="#222324"/>
+            </StackLayout>
+            <Button x:Name="shbtDon" Clicked="ShbtDon_Clicked" IsVisible="False" Text="Sohbete Dön" FontAttributes="Bold" Margin="0,25,0,0" FontSize="20" TextColor="Orange" CornerRadius="20" BackgroundColor="#36393F"/>
+        </StackLayout>
+    </Grid>
+
+</ContentPage>

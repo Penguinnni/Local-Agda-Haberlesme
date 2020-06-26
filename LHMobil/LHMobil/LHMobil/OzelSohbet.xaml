@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="LHMobil.OzelSohbet" >
+    <ContentPage.Content>
+        <AbsoluteLayout BackgroundColor="#222324">
+            <Label x:Name="KullaniciAdi" Text="{Binding SystemDataBase.kullaniciAdi}" AbsoluteLayout.LayoutFlags="PositionProportional" AbsoluteLayout.LayoutBounds="0.5,0.02" Font="22" FontAttributes="Bold" TextColor="Orange" />
+            <Editor x:Name="Sohbet" BackgroundColor="#36393F" TextColor="White"
+                 AbsoluteLayout.LayoutFlags="All"  
+                    AbsoluteLayout.LayoutBounds="0.5,0.25,0.9,0.65"/>
+            <Entry x:Name="Mesaj" BackgroundColor="#36393F" TextColor="White"
+                    AbsoluteLayout.LayoutFlags="All"
+                    AbsoluteLayout.LayoutBounds="0.5,0.96,0.9,0.18"/>
+            <Button x:Name="gonderBtn" Clicked="GonderBtn_Clicked" BackgroundColor="Orange" AbsoluteLayout.LayoutFlags="PositionProportional" AbsoluteLayout.LayoutBounds="0.9,0.9,35,35" CornerRadius="20">
+                <Button.Image>
+                    <OnPlatform x:TypeArguments="FileImageSource"
+                        iOS="send.png"
+                        Android="send.png" />
+                </Button.Image>
+            </Button>
+        </AbsoluteLayout>
+    </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,184 @@
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csprojAssemblyReference.cache
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\MainWindow.g.cs
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\App.g.cs
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignColors.dll
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignColors.pdb
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\App.baml
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\MainWindow.baml
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.Properties.Resources.resources
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csproj.CopyComplete
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuBaglan.g.cs
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuOlustur.g.cs
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuBaglan.baml
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuOlustur.baml
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\Istemci.g.cs
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\Istemci.baml
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\bin\Debug\LocalHaberlesmeSinifKutuphanesi.dll
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\bin\Debug\LocalHaberlesmeSinifKutuphanesi.pdb
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\bin\Debug\Local Haberlesme.exe.config
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\bin\Debug\Local Haberlesme.exe
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\bin\Debug\Local Haberlesme.pdb
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme_MarkupCompile.cache
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme_MarkupCompile.lref
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme.g.resources
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme.exe
+C:\Users\muham\source\repos\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme.pdb
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Local Haberlesme.exe.config
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Local Haberlesme.exe
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Local Haberlesme.pdb
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\LocalHaberlesmeSinifKutuphanesi.dll
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignColors.dll
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\LocalHaberlesmeSinifKutuphanesi.pdb
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignColors.pdb
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csprojAssemblyReference.cache
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Istemci.g.cs
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\MainWindow.g.cs
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuBaglan.g.cs
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuOlustur.g.cs
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\App.g.cs
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme_MarkupCompile.cache
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme_MarkupCompile.lref
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\App.baml
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Istemci.baml
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\MainWindow.baml
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuBaglan.baml
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuOlustur.baml
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme.g.resources
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.Properties.Resources.resources
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csproj.GenerateResource.cache
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csproj.CopyComplete
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme.exe
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme.pdb
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\OzelSohbet.g.cs
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\OzelSohbet.baml
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\DosyaTransfer.g.cs
+C:\Users\muham\Desktop\Yeni klasör\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\DosyaTransfer.baml
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csprojAssemblyReference.cache
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\DosyaTransfer.g.cs
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Istemci.g.cs
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\MainWindow.g.cs
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\OzelSohbet.g.cs
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuBaglan.g.cs
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuOlustur.g.cs
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\App.g.cs
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme_MarkupCompile.cache
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme_MarkupCompile.lref
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme.exe
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme.pdb
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Local Haberlesme.exe.config
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Local Haberlesme.exe
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Local Haberlesme.pdb
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\LocalHaberlesmeSinifKutuphanesi.dll
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignColors.dll
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\LocalHaberlesmeSinifKutuphanesi.pdb
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignColors.pdb
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\App.baml
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\DosyaTransfer.baml
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Istemci.baml
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\MainWindow.baml
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\OzelSohbet.baml
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuBaglan.baml
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuOlustur.baml
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme.g.resources
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.Properties.Resources.resources
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csproj.GenerateResource.cache
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\Yeni klasör\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csproj.CopyComplete
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Local Haberlesme.exe.config
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Local Haberlesme.exe
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Local Haberlesme.pdb
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\LocalHaberlesmeSinifKutuphanesi.dll
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignColors.dll
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\LocalHaberlesmeSinifKutuphanesi.pdb
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignColors.pdb
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csprojAssemblyReference.cache
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\DosyaTransfer.g.cs
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Istemci.g.cs
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\MainWindow.g.cs
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\OzelSohbet.g.cs
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuBaglan.g.cs
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuOlustur.g.cs
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\App.g.cs
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme_MarkupCompile.cache
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme_MarkupCompile.lref
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\App.baml
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\DosyaTransfer.baml
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Istemci.baml
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\MainWindow.baml
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\OzelSohbet.baml
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuBaglan.baml
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuOlustur.baml
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme.g.resources
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.Properties.Resources.resources
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csproj.GenerateResource.cache
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csproj.CopyComplete
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme.exe
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme.pdb
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\muham\Desktop\Yeni klasör (2)\denemeoncesiozelmesaj\kadi kontrollü çalışan\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\Local Haberlesme.exe.config
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\Local Haberlesme.exe
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\Local Haberlesme.pdb
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\LocalHaberlesmeSinifKutuphanesi.dll
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignColors.dll
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.dll
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\LocalHaberlesmeSinifKutuphanesi.pdb
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignColors.pdb
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.pdb
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.xml
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.Shell.pdb
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.Shell.xml
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.pdb
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\bin\Debug\Microsoft.WindowsAPICodePack.ShellExtensions.xml
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csprojAssemblyReference.cache
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\DosyaTransfer.g.cs
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\Istemci.g.cs
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\MainWindow.g.cs
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\OzelSohbet.g.cs
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuBaglan.g.cs
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuOlustur.g.cs
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\App.g.cs
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme_MarkupCompile.cache
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme_MarkupCompile.lref
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\App.baml
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\DosyaTransfer.baml
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\Istemci.baml
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\MainWindow.baml
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\OzelSohbet.baml
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuBaglan.baml
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\SunucuOlustur.baml
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme.g.resources
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.Properties.Resources.resources
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csproj.GenerateResource.cache
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\LocalHaberlesme.csproj.CopyComplete
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme.exe
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LocalHaberlesme\LocalHaberlesme\obj\Debug\Local Haberlesme.pdb

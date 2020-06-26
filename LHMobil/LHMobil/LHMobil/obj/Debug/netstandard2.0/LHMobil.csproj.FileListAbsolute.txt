@@ -1,0 +1,34 @@
+C:\Users\muham\source\repos\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\muham\source\repos\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\muham\source\repos\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\LHMobil.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\LHMobil.AssemblyInfoInputs.cache
+C:\Users\muham\source\repos\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\LHMobil.AssemblyInfo.cs
+C:\Users\muham\source\repos\LHMobil\LHMobil\LHMobil\bin\Debug\netstandard2.0\LHMobil.deps.json
+C:\Users\muham\source\repos\LHMobil\LHMobil\LHMobil\bin\Debug\netstandard2.0\LHMobil.dll
+C:\Users\muham\source\repos\LHMobil\LHMobil\LHMobil\bin\Debug\netstandard2.0\LHMobil.pdb
+C:\Users\muham\source\repos\LHMobil\LHMobil\LHMobil\bin\Debug\netstandard2.0\LocalHaberlesmeSinifKutuphanesi.dll
+C:\Users\muham\source\repos\LHMobil\LHMobil\LHMobil\bin\Debug\netstandard2.0\LocalHaberlesmeSinifKutuphanesi.pdb
+C:\Users\muham\source\repos\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\muham\source\repos\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\LHMobil.csproj.CopyComplete
+C:\Users\muham\source\repos\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\LHMobil.dll
+C:\Users\muham\source\repos\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\LHMobil.pdb
+C:\Users\muham\source\repos\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\Istemci.xaml.g.cs
+C:\Users\muham\source\repos\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\OzelSohbet.xaml.g.cs
+C:\Users\muham\source\repos\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\LHMobil.csprojAssemblyReference.cache
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LHMobil\LHMobil\LHMobil\bin\Debug\netstandard2.0\LHMobil.deps.json
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LHMobil\LHMobil\LHMobil\bin\Debug\netstandard2.0\LHMobil.dll
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LHMobil\LHMobil\LHMobil\bin\Debug\netstandard2.0\LHMobil.pdb
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LHMobil\LHMobil\LHMobil\bin\Debug\netstandard2.0\LocalHaberlesmeSinifKutuphanesi.dll
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LHMobil\LHMobil\LHMobil\bin\Debug\netstandard2.0\LocalHaberlesmeSinifKutuphanesi.pdb
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\Istemci.xaml.g.cs
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\OzelSohbet.xaml.g.cs
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\LHMobil.csproj.CoreCompileInputs.cache
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\LHMobil.AssemblyInfoInputs.cache
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\LHMobil.AssemblyInfo.cs
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\LHMobil.csproj.CopyComplete
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\LHMobil.dll
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\LHMobil.pdb
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\muham\Desktop\Local Haberleşme Performans Ödevi\LHMobil\LHMobil\LHMobil\obj\Debug\netstandard2.0\LHMobil.csprojAssemblyReference.cache

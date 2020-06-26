@@ -1,0 +1,39 @@
+﻿<Page x:Class="LocalHaberlesme.DosyaTransfer"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:LocalHaberlesme"
+      mc:Ignorable="d"
+      Title="DosyaTransfer" Height="450" Width="800">
+
+    <Grid>
+        <Grid>
+            <Border BorderThickness="1" CornerRadius="40" HorizontalAlignment="Left" Height="450" VerticalAlignment="Top" Width="800" Background="#FFFF9800" >
+                <Border BorderThickness="1" CornerRadius="40" Margin="4,4,4,4" Background="#FF202225">
+                    <Grid>
+
+                        <DataGrid x:Name="dg" Margin="28,50" Foreground="Black" Background="White">
+                            <DataGrid.Columns>
+                                <DataGridTextColumn Binding="{Binding Path=Saat}"  Header="Saat" IsReadOnly="True" Width="Auto"/>
+                                <DataGridTextColumn Binding="{Binding Path=Kod}"  Header="Dosya Kodu" IsReadOnly="True" Width="Auto"/>
+                                <DataGridTextColumn Binding="{Binding Path=Gonderen}" Header="Gönderen" IsReadOnly="True" Width="Auto"/>
+                                <DataGridTextColumn Binding="{Binding Path=Dosya}"  Header="Dosya" IsReadOnly="True" Width="Auto"/>
+                                <DataGridTextColumn Binding="{Binding Path=Boyut}"  Header="Boyut" IsReadOnly="True" Width="Auto"/>
+                            </DataGrid.Columns>
+                        </DataGrid>
+                        <Button x:Name="dosyaIste" materialDesign:ButtonAssist.CornerRadius="20" Content="Seçilen Dosyayı İndir" Height="35" Margin="398,10,200,0" VerticalAlignment="Top" Click="DosyaIste_Click"/>
+                        <Button x:Name="gonderBtn" materialDesign:ButtonAssist.CornerRadius="20" Content="Dosya Gönder" Height="35" Margin="200,10,398,0" VerticalAlignment="Top" Click="GonderBtn_Click" />
+                    </Grid>
+                </Border>
+            </Border>
+            <Button x:Name="kapat" Style="{DynamicResource MaterialDesignFloatingActionButton}" Margin="753,22,22,0" VerticalAlignment="Top" Width="25" Height="25" Foreground="#FF202225" Click="Kapat_Click" >
+                <materialDesign:PackIcon Kind="Close" Height="20" Width="20"/>
+            </Button>
+
+
+        </Grid>
+        <Button x:Name="klasorAc" Click="KlasorAc_Click" materialDesign:ButtonAssist.CornerRadius="20" Content="İndirilenler Klasörünü Aç" Height="35" Margin="305,402,305,0" VerticalAlignment="Top" />
+    </Grid>
+</Page>
